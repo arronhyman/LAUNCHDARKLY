@@ -24,5 +24,5 @@ Home Search page that hides the discount code
 https://www.greathousedesign.com/plan-search/
 
 Product Page that hides the discount code but keeps the  "Out of country"  message for those outside of the United States
-[https://www.greathousedesign.com/plan-search/](https://www.greathousedesign.com/home-plan/?plan_id=001-3912)
+https://www.greathousedesign.com/home-plan/?plan_id=001-3912
 
