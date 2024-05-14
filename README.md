@@ -1,1 +1,26 @@
-Please read the Arron-Hyman-Candidate-Lab.pdf for details on how to run the submission
+Please read the Arron-Hyman-Candidate-Lab.pdf for details on how to run the submission.
+
+The application has been uploaded online which should ease the process of analyzing my submission.
+
+The two main websites accessed within this file are buyhomedesigns.com and greathousedesign.com at the following URLs.
+
+They both use the same code and plugin for their online marketplace but have been segmented out within LaunchDarkly to behave differently.
+
+
+
+Home Search page that contains the discount code
+https://www.buyhomedesigns.com/marketplace/
+
+Product Page that contains a discount code and the "Out of country" message for those outside of the United States
+https://www.buyhomedesigns.com/marketplace/home-plan/?plan_id=001-3912
+
+
+
+To verify that the target segment, to test this code on, is working we will access greathousedesign.com which has the same plugin
+
+Home Search page that hides the discount code
+https://www.greathousedesign.com/plan-search/
+
+Product Page that hides the discount code but keeps the  "Out of country"  message for those outside of the United States
+[https://www.greathousedesign.com/plan-search/](https://www.greathousedesign.com/home-plan/?plan_id=001-3912)
+
