@@ -1,5 +1,7 @@
 Please read the Arron-Hyman-Candidate-Lab.pdf for details on how to run the submission.
 
+The code snippets and links to the live code are available in this submission. Along with how to run each task, as well as how to setup the task within LaunchDarkly.
+
 The application has been uploaded online which should ease the process of analyzing my submission.
 
 The two main websites accessed within this file are buyhomedesigns.com and greathousedesign.com at the following URLs.
