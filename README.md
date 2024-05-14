@@ -18,7 +18,7 @@ https://www.buyhomedesigns.com/marketplace/home-plan/?plan_id=001-3912
 
 
 
-To verify that the target segment, to test this code on, is working we will access greathousedesign.com which has the same plugin
+To verify that the target segment directed towards buyhomedesign.com is working, we will validate that Great House Design does not see any of the coupon options.
 
 Home Search page that hides the discount code
 https://www.greathousedesign.com/plan-search/
